@@ -1,0 +1,1 @@
+çalıştırılabilir jar dosyası target klasörünün içinde. Project2 dosyası.
